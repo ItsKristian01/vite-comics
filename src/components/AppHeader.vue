@@ -95,7 +95,7 @@ ul {
                 border-bottom: 5px solid hsl(208.91deg 98.41% 49.22%);
                 width: 2px;
                 padding: 4rem;
-            }
+            } 
         }
 
         &.active {
